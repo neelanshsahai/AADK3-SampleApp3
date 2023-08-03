@@ -19,3 +19,13 @@ JSON String = "{"name": "ABC", "age": 25, "contact": "9876543210"}"
 
 // Database -> SQLite
 // A lot of code to CRUD
+
+// TODO: Copy the Social Apps UI into a new Project
+// TODO: Add an Auth Activity and setup Firebase Authentication
+// Auth Page
+// Use Firestore
+// Create Posts
+// User Profile
+// Like and Comment
+// Push and Pull data from Firestore
+
